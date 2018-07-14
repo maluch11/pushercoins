@@ -26,6 +26,7 @@ class App extends Component {
                   <History />
               </div>
           </section>
+          <section><div>FOOTER</div></section>
       </div>
     );
   }
